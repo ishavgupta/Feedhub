@@ -55,9 +55,9 @@ https://bit.ly/feedhub-demo-project
 
 # 5. Screenshot of the interface
 
-![image](https://user-images.githubusercontent.com/55930740/208229441-20fa2b7c-d622-4349-a7dc-0fb44d0fa31e.png)
+![image](https://user-images.githubusercontent.com/55930740/208245333-e8393840-1f01-4c47-bacf-e6ec0a2968af.png)
 
-![image](https://user-images.githubusercontent.com/55930740/208229449-46a660fa-00d9-41fa-b185-10fb52896f2f.png)
+![image](https://user-images.githubusercontent.com/55930740/208245343-e335419a-186c-4d6f-a15e-dda082d536a0.png)
 
 ![image](https://user-images.githubusercontent.com/55930740/208229474-e13aff67-a9b2-454c-9f9e-df8e48a1d42d.png)
 
