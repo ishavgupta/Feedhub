@@ -3,19 +3,22 @@
 
 # 1. Methodology 
 
-o I have implemented a friend recommendation system in python using collaborative filtering.
-o There are basically two methods for recommending friends to a user based on their common
+I have implemented a friend recommendation system in python using collaborative filtering.
+
+There are basically two methods for recommending friends to a user based on their common
 friends and influence of number of friends.
-o To find the potential friends we will measure them using the ‘score’ metric where a higher score would
+
+To find the potential friends we will measure them using the ‘score’ metric where a higher score would
 mean that user is a better candidate for being friend.
-o We will then test the recommendation system accuracy by removing the friendship edges of all friends in
+
+We will then test the recommendation system accuracy by removing the friendship edges of all friends in
 the Facebook data and then compute which method gives the most similar recommendations to that of the
 original data.
+
+
 * We would perform many trails of randomly chosen users from the data to compute accuracies.
 © A subset map of friendship of the users will be displayed using edges and nodes in the form of graphs in
 python.
-
-![image](https://user-images.githubusercontent.com/55930740/208229738-0442dfdf-e8d8-4cf3-b056-57b3b0729737.png)
 
 
 
