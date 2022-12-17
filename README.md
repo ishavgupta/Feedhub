@@ -3,6 +3,8 @@
 
 # 1. Methodology 
 
+This is basically a social website made in Django along with friend recommendation system.
+
 I have implemented a friend recommendation system in python using collaborative filtering.
 
 There are basically two methods for recommending friends to a user based on their common
