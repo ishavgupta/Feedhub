@@ -16,7 +16,7 @@ the Facebook data and then compute which method gives the most similar recommend
 original data.
 
 
-* We would perform many trails of randomly chosen users from the data to compute accuracies.
+We would perform many trails of randomly chosen users from the data to compute accuracies.
 © A subset map of friendship of the users will be displayed using edges and nodes in the form of graphs in
 python.
 
