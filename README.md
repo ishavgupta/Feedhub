@@ -35,7 +35,7 @@ A Unix timestamp is the number of seconds since January 1, 1970.
 
 # 4. Live Link 
 
-https://bit.ly/ishav-demo-FEEDHUB
+https://bit.ly/feedhub-demo-project
 
 
 # 5. Screenshot of the interface
